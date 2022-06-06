@@ -1,0 +1,25 @@
+/*CSS for the Body*/
+body {
+    background:#FFD1D7;
+    font-family:Arial;
+    margin-top:10%;
+}
+/*box in center of page*/
+#box{
+    background:white;
+    width: 400px;
+    height: 400px;
+    border: 20px black solid;
+    padding:30px;
+    color:black;
+
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+}
+/* add background for form buttons*/
+input[type=submit] {
+background: black;
+color:white;
+}
