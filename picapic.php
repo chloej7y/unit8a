@@ -7,8 +7,8 @@ ini_set('display_errors', 1);
 
 // get picture from GET
 
-if(isset($_GET["moto"])) {
-	$pic = $_GET["moto"];
+if(isset($_GET["flower"])) {
+	$pic = $_GET["flower"];
 		} else {
 			$pic = "";
 		}
